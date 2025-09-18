@@ -26,5 +26,9 @@ Some example insights you can highlight:
 - Automate data entry using **Google Apps Script**.
 - Expand dataset to include ratings, reviews, and notes.
 
+## 📊 Dashboard Preview
+
+![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](images/fullview.png)
 ---
 👩‍💻 Created as part of my data analytics learning journey.  
