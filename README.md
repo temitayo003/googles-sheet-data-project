@@ -29,6 +29,6 @@ Some example insights you can highlight:
 ## 📊 Dashboard Preview
 
 ![Dashboard Screenshot](images/dashboard.png)
-![Dashboard Screenshot](images/fullview.png)
+
 ---
 👩‍💻 Created as part of my data analytics learning journey.  
